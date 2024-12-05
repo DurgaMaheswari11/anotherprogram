@@ -1,0 +1,38 @@
+org:
+  nit:
+    id: 10
+    name: NareshIt
+    addrs: hyd
+    pincode: 500038
+    contact: 99999999
+    phone: 8888888
+    size: 200
+    branches:
+      - hyderabad
+      - delhi
+      - newyork
+    favColors:
+      - red
+      - pink
+      - gray
+    nickNames: 
+      - bunty
+      - chotu
+      - chunty
+    owners:
+      - raja
+      - rani
+      - rahul
+    phones:
+      - 9999999
+      - 88888888
+      - 3333333
+    licenseDetails:
+      lid: 5545443
+      type: IT-License
+      issuedBy: govt.ts
+    company:
+      id: 14567
+      name: hcl
+      addrs: Blore
+      size: 10000
